@@ -1,0 +1,17 @@
+openai
+elasticsearch>=8.0.0
+tqdm
+pypdf
+beautifulsoup4
+html2text
+tenacity
+python-dotenv
+fastapi
+uvicorn
+streamlit
+sentence-transformers
+transformers
+elasticsearch[async]>=8.0.0
+pdfplumber
+pymupdf
+langchain-openai

@@ -1,0 +1,14 @@
+# Virtuelle Umgebung
+venv/
+__pycache__/
+
+# Umgebungsvariablen
+.env
+
+# Streamlit automatisch erzeugte Daten
+.streamlit/
+
+# Editor-/Systemdateien
+.DS_Store
+*.swp
+
